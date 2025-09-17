@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alex Schrader
 - 👀 I’m interested in basketball, cars, motorcycles, computers, science, learning new things
 - 🌱 I’m currently learning to program using C++ 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aschrader@my.waketech.edu 
 
 
