@@ -20,7 +20,7 @@ Computer Programming & Development student at Wake Tech (Associate's, Dec. 2026)
 Deepening C++, Java, and Python · iOS/Swift development · Japanese (日本語) on the side
 
 ### ⚡ Outside the editor
-Basketball, cars, motorcycles, and anything mechanical. Always taking something apart to see how it works.
+Learning languages, building apps, basketball, cars, motorcycles, and anything mechanical. Always taking something apart to see how it works.
 
 ### 📫 Reach me
 - 📧 acs.schrader123@gmail.com
