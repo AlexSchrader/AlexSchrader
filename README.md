@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Alex Schrader
+## 👋 はじめまして, I'm Alex Schrader
 
 Computer Programming & Development student at Wake Tech (Associate's, Dec. 2026) and ITS-certified in Python. I like building real things — web apps, iOS apps, and the occasional tool to solve a problem in front of me.
 
